@@ -24,7 +24,7 @@ function setup() {
 	helicopterSprite.addImage(helicopterIMG)
 	helicopterSprite.scale=0.6
 
-	groundSprite=createSprite(width/2,650, width,10);
+	groundSprite=createSprite(width/2,665, width,10);
 	groundSprite.shapeColor=color(255)
 
 
